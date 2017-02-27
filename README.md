@@ -1,2 +1,2 @@
-# AuthSample
-Sample app for Bot and Auth
+# CallGraphAPISample
+This sample is based on AuthSample
